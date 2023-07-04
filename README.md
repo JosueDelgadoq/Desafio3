@@ -1,1 +1,1 @@
-para resolver la consigna pause el commit mrdiante un git stash --include-untracked
+para resolver la consigna pause el commit mediante un git stash --include-untracked
